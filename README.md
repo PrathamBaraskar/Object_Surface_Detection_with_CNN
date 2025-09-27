@@ -175,7 +175,7 @@ streamlit run app.py
 
 ## 📚 References
 
-* NEU Surface Defect Dataset: [Kaggle](https://www.kaggle.com/datasets/andrewmvd/steel-defect-detection)
+* NEU Surface Defect Dataset: [Kaggle]([https://www.kaggle.com/datasets/andrewmvd/steel-defect-detection](https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database))
 * Keras CNN Tutorial: [https://keras.io/examples/vision/cnn/](https://keras.io/examples/vision/cnn/)
 * Streamlit Documentation: [https://docs.streamlit.io/](https://docs.streamlit.io/)
 

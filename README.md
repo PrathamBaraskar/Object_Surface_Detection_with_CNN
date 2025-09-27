@@ -87,6 +87,7 @@ source venv/bin/activate  # Linux/Mac
 ## 🏋️‍♂️ Training the CNN Model
 
 Run the training script to train the CNN model:
+Model Link: [Model](https://huggingface.co/BaruAi/Object_surface_Detection_CNN/blob/main/baseline_cnn_net.h5)
 
 ```bash
 python scripts/train_baseline.py

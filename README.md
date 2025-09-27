@@ -181,17 +181,5 @@ streamlit run app.py
 
 ```
 
----
 
-This README:  
 
-- Explains **dataset, model, training, evaluation, and deployment**.  
-- Shows **accuracy** and CNN architecture.  
-- Is **professional and GitHub-ready**.  
-
----
-
-If you want, I can also **create a version with screenshots of the Streamlit app and predicted results** to make it **even more visually appealing on GitHub**.  
-
-Do you want me to do that next?
-```

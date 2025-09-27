@@ -1,8 +1,5 @@
 # Object_Surface_Detection_with_CNN
 
-Perfect! Since you haven’t used Grad-CAM or ResNet and your Streamlit app uses the **baseline CNN**, I’ll draft a **complete, professional README** for your **NEU Surface Defect Detection project**. This will make your GitHub repository **resume-ready**.
-
----
 
 # 📄 README.md
 
@@ -75,7 +72,7 @@ SmartDefectDetection/
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/PrathamBaraskar/Object_Surface_Detection_with_CNN
 cd SmartDefectDetection
 ````
 
@@ -86,14 +83,6 @@ python -m venv venv
 venv\Scripts\activate  # Windows
 source venv/bin/activate  # Linux/Mac
 ```
-
-3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## 🏋️‍♂️ Training the CNN Model
 
